@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<grid
+    enableCopy="false"
+    enableExport="false"
+    enableFilters="false"
+    enableFooters="true"
+    enablePaging="false"
+    enablePrint="false"
+    initialSortAscending="false"
+    generateColumns="false"
+    enablePreferencePersistence="true"
+    preferencePersistenceKey="ClayWearScoreGrid" >
+    
+    <level
+        enableFooters="false"
+        selectedKeyField="stand"
+        rowHeight="80" >
+    </level>
+</grid>

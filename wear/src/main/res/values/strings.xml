@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClayWear</string>
+
+    <string name="stand_label">Std:</string>
+
+    <string name="singles_abr">Sgl</string>
+    <string name="pairs_abr">Pr</string>
+    <string name="trips_abr">Trp</string>
+
+
+</resources>

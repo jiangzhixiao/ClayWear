@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">ClayWear</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="label_targets">Targets</string>
+    <string name="label_pairs">Pairs</string>
+    <string name="label_trips">Triples</string>
+
+    <string name="label_addShooter">Add Shooter</string>
+    <string name="label_pull">Cycle</string>
+    <string name="label_nobird">No Bird</string>
+    <string name="label_restart">Restart</string>
+    <string name="nb_label">No Bird or Misfire</string>
+    <string name="nb_message">Reset sequence to this target?</string>
+    <string name="do_label">Skip Shooter</string>
+    <string name="do_message">Skip this shooter?</string>
+    <string name="re_label">Re-enable Shooter</string>
+    <string name="re_message">Enable this shooter?</string>
+    <string name="setup_flush_activity">Flush setup</string>
+    <string name="setup_sporting_activity">Setup Sporting</string>
+    <string name="sn_label">Shooters name</string>
+    <string name="scoring_activity">ClayWear Scoring</string>
+    <string name="ent_label">Entry Number</string>
+
+    <string name="labelDiscipline">Discipline</string>
+    <string name="labelFormat">Format</string>
+
+    <string name="labelStand">Stand</string>
+    <string name="labelTurn">Cycle</string>
+    <string name="labelType">Type</string>
+    <string name="labelTargets">Targets</string>
+    <string name="labelPairs">Pairs</string>
+    <string name="labelTrips">Trips</string>
+
+    <string name="typeSingles">Singles</string>
+    <string name="typeRafael">Rafael</string>
+    <string name="typeReport">Report</string>
+    <string name="typeSim">Sim</string>
+
+    <string name="typeReport3">Rep 3</string>
+    <string name="typeSim3">Sim 3</string>
+    <string name="typeRafael3">Raf 3</string>
+    <string name="type1RepRaf">1 r Raf</string>
+    <string name="typeRafRep1">Raf r 1</string>
+    <string name="type1RepSim">1 r Sim</string>
+    <string name="typeSimRep1">Sim r 1</string>
+    <string name="typeRafSim">Raf &amp; 1</string>
+
+    <string name="discSporting">Sporting</string>
+    <string name="frmEsp">English Sporting</string>
+    <string name="frmFives">Five Stand</string>
+    <string name="frmFits">FITASC</string>
+    <string name="frmSptr">Sporttrap</string>
+    <string name="frmCopk">Compak</string>
+    <string name="frmSuper">Supersport</string>
+
+    <string name="frmSpra">Sportasc</string>
+
+    <string name="discSkeet">Skeet</string>
+    <string name="frmEsk">English</string>
+    <string name="frmAsk">American</string>
+    <string name="frmSkd">Doubles</string>
+    <string name="frmOsk">Olympic</string>
+
+    <string name="discTrap">Trap</string>
+    <string name="frmDtl">DTL</string>
+    <string name="frmAbt">ABT</string>
+    <string name="frmDrs">Double Rise</string>
+    <string name="frmOtr">Olympic Trap</string>
+    <string name="frmDtr">Double Trap</string>
+    <string name="frmUt">Universal Trench</string>
+    <string name="frmAta">ATA</string>
+    <string name="frmAtd">ATA Doubles</string>
+
+    <string name="discFed">FEDECAT</string>
+    <string name="frmF32">Fan 32</string>
+    <string name="frmFT3">Fed Trap 3</string>
+    <string name="frmFT5">Fed Trap 5</string>
+    <string name="frmIsf">FED Sporting</string>
+
+    <string name="discHel">Helice</string>
+    <string name="frmHel">Helice</string>
+    <string name="lStands">Stands</string>
+    <string name="lTargets">Targets</string>
+    <string name="labelGo">Shoot it!</string>
+
+    <string name="trgReportPairs">Report Pairs</string>
+    <string name="trgSimPairs">Simultaneous Pairs</string>
+    <string name="trgReportTrips">Report Triples</string>
+    <string name="trgSimTrips">Simultaneous Triples</string>
+
+</resources>
